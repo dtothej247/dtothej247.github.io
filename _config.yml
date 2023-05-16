@@ -21,7 +21,7 @@ resume_contact_telephone:       "803-414-5865"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "Blythewood, SC • 803-414-5865 • ddjoyce2019@gmail.com"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Welcome! My name is Derrick Joyce and I am a M.S Robotics Candidate at the Georgia Institute of Technology. My technical areas of interest lie within <b> computer vision, AI/ML, and embedded systems </b>in the context of mobile robotic platforms.</p>"
 
