@@ -1,9 +1,10 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# TACTICAL DEFENSE SYSTEMS INTERN, MIT LINCOLN LABORATORY
+- company: MIT LINCOLN LABORATORY
+  position: Tactical Defense Systems Intern
+  duration: May 2022 &mdash July 2022, May 2023 &mdash July 2023
+  summary: Project: Digital Frame Sync (DFS) for Airborne Sensor Test Bed
+Joined the Tactical Defense Systems Group at MIT Lincoln Laboratory. This internship focused on designing software for a sensor belonging to an airborne testbed. The software is responsible for generating timing signals which are synchronously passed from the ground to the airborne platform during flight. I performed a combination of laboratory and field testing, which later led my team to discover a critical software oversight that compromised the entire system. I am pleased to report that my solution has been accepted and integrated into the official system. After successful implementation, I created a GUI using Qt software that displayed the data the sensor was gathering in real-time.
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
