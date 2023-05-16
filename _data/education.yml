@@ -1,13 +1,31 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Masters of Science, Robotics
+  uni: Georgia Institute of Technology
+  year: 2023 &mdash; PRESENT
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: National GEM Consortium Fellow 2023
+ # summary: If you had any meaningful roles at college, feel free to write about them here
+  
+- degree: Bachelor of Science, Computer Engineering
+  uni: Clemson University
+  year: 2019 &mdash; 2023
+  awards:
+    - award: GPA: 3.88
+    - award: Magna Cumme Laude
+    - award: 6x President's List
+    - award: Published Researcher: https://opg.optica.org/abstract.cfm?URI=CLEO_AT-2022-JW3A.30
+    - award: Resident Assistant: 2020 &mdash; 2023
+    - award: National Society of Black Engineers (NSBE): Treasurer, Vice President
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: South Carolina Governor's School for Science and Mathematics
+  year: 2015 &mdash; 2019
+  awards: 
+    - award: FTC Robotics Software Captain
+    - award: National Society of Black Engineers Vice President
+    - award: A/V Vice President
+    - award: National Honors Society
+    - award: Beta Club
+    - award: SCGSSM Student Ambassador
+  
+  #summary: You can choose to have either a single or multiple awards
