@@ -4,7 +4,7 @@
   position: Tactical Defense Systems Intern
   duration: May 2022 &mdash July 2022, May 2023 &mdash July 2023
   summary: Project &mdash Digital Frame Sync (DFS) for Airborne Sensor Test Bed
-Joined the Tactical Defense Systems Group at MIT Lincoln Laboratory. This internship focused on designing software for a sensor belonging to an airborne testbed. The software is responsible for generating timing signals which are synchronously passed from the ground to the airborne platform during flight. I performed a combination of laboratory and field testing, which later led my team to discover a critical software oversight that compromised the entire system. I am pleased to report that my solution has been accepted and integrated into the official system. After successful implementation, I created a GUI using Qt software that displayed the data the sensor was gathering in real-time.
+  summary: Joined the Tactical Defense Systems Group at MIT Lincoln Laboratory. This internship focused on designing software for a sensor belonging to an airborne testbed. The software is responsible for generating timing signals which are synchronously passed from the ground to the airborne platform during flight. I performed a combination of laboratory and field testing, which later led my team to discover a critical software oversight that compromised the entire system. I am pleased to report that my solution has been accepted and integrated into the official system. After successful implementation, I created a GUI using Qt software that displayed the data the sensor was gathering in real-time.
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
